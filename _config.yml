@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h2>A Ruby developer and a teacher, fluent in Chinese, ready for new challenges!</h2>
+     <h2>Automation Engineer passionate about testing and writing clean code, ready for new challenges!</h2>
   header_text_feature_image: "img/hubble_img.jpg"
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
